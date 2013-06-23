@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "stache.js",
   "dependencies": {
-    "mustachejs": ">= 0.1",
+    "mustache": ">= 0.1",
     "requirejs-text": ">= 2.0.0"
   },
   "ignore": [
